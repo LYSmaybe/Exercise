@@ -1,15 +1,14 @@
-﻿生成启动时间为 10/4/2019 5:54:08 PM。
+﻿生成启动时间为 10/5/2019 3:02:33 PM。
      1>项目“D:\Code\Exercise\07\07\07.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt reverse_string.c
          reverse_string.c
-     1>d:\code\exercise\07\07\reverse_string.c(9): warning C4098: “reverse_string”:“void”函数返回值
-     1>d:\code\exercise\07\07\reverse_string.c(13): warning C4098: “reverse_string”:“void”函数返回值
-     1>d:\code\exercise\07\07\reverse_string.c(21): warning C4047: “函数”:“char *”与“char (*)[8]”的间接级别不同
-     1>d:\code\exercise\07\07\reverse_string.c(21): warning C4024: “reverse_string”: 形参和实参 1 的类型不同
        Link:
          E:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\Exercise\07\Debug\07.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Code\Exercise\07\Debug\07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Code\Exercise\07\Debug\07.lib" /MACHINE:X86 Debug\DigitSum.obj
+         "Debug\Every digit.obj"
+         Debug\factorial.obj
          "Debug\Fibonacci number.obj"
+         "Debug\length of string.obj"
          "Debug\n^k.obj"
          Debug\reverse_string.obj
          07.vcxproj -> D:\Code\Exercise\07\Debug\07.exe
@@ -17,4 +16,4 @@
 
 生成成功。
 
-已用时间 00:00:00.32
+已用时间 00:00:00.33

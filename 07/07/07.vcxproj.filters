@@ -27,5 +27,14 @@
     <ClCompile Include="reverse_string.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="length of string.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Every digit.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
