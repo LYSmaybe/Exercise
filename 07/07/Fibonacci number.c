@@ -1,6 +1,6 @@
 //#define _CRT_SECURE_NO_WARNINGS
 //#include <stdio.h>
-
+//
 ////1.�ݹ鷨
 //int fib(int n)
 //{
@@ -17,9 +17,9 @@
 //	printf("%d\n",fib(n));
 //	return 0;
 //}
-
-
-
+//
+//
+//
 ////2.�ǵݹ鷨
 //int fib(int n)
 //{

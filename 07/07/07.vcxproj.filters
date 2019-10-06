@@ -36,5 +36,8 @@
     <ClCompile Include="Every digit.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="goto.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

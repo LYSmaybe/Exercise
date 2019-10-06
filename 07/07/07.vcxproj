@@ -69,6 +69,7 @@
     <ClCompile Include="Every digit.c" />
     <ClCompile Include="factorial.c" />
     <ClCompile Include="Fibonacci number.c" />
+    <ClCompile Include="goto.c" />
     <ClCompile Include="length of string.c" />
     <ClCompile Include="n^k.c" />
     <ClCompile Include="reverse_string.c" />
