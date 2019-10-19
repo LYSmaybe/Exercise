@@ -142,4 +142,4 @@ void game()
 			break;
 		}
 	} while ((ret = is_win(board, ROW, COL)) == 'c');
-}
+} 
